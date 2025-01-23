@@ -41,6 +41,9 @@ https://github.com/user-attachments/assets/ec857266-616f-4671-998c-73f88d5d1249
 
 <h2>Step 2. Observe the ticket’s properties</h2
 
+## My video
+
+
 https://github.com/user-attachments/assets/9aab6afc-6519-4eed-b701-eb65e2807e53
 
 - Watch the Instructional Video above
@@ -52,6 +55,9 @@ https://github.com/user-attachments/assets/9aab6afc-6519-4eed-b701-eb65e2807e53
 
 <h2>Step 3. Set Properties to the ticket</h2
 
+## My video
+
+
 https://github.com/user-attachments/assets/609ba096-07fa-4183-8a54-69fd517613d1
 
 - Watch the Instructional Video above
@@ -61,11 +67,16 @@ https://github.com/user-attachments/assets/609ba096-07fa-4183-8a54-69fd517613d1
 
 <h2>Step 4. Work Ticket to completion with Jane</h2
 
+## My video
+
+
 https://github.com/user-attachments/assets/f70bf48c-5c18-464f-989b-60d6431d1e08
 
 - Watch the Instructional Video above
 
 <h2>Step 5. Accounting department needs adobe upgrade, broken Ticket</h2
+
+## My video
 
 
 https://github.com/user-attachments/assets/392ec62b-ff2a-4ad7-a34f-d1a88ee4d57a
@@ -73,6 +84,8 @@ https://github.com/user-attachments/assets/392ec62b-ff2a-4ad7-a34f-d1a88ee4d57a
 - Watch the Instructional Video above
 
 <h2>Step 6.  CFO’s laptop will no longer turn on Ticket</h2
+
+## My video
 
 https://github.com/user-attachments/assets/8c18dd73-2db2-4600-8f40-d648e9a4da36
 
