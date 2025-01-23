@@ -21,12 +21,12 @@ This tutorial outlines osTicket Life Cycle Examples of the open-source help desk
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Creating a ticket for mobile/online banking system is down
+- Mobile/online banking system is down example
 - As Help Desk Agent (john), observe the ticket’s properties
 - Set Properties to the ticket
 - Work Ticket to Completion with Jane
-- Creating a ticket for accounting department needs adobe upgrade, broken
-- Creating a ticket for CFO’s laptop will no longer turn on
+- Accounting department needs adobe upgrade, broken example
+- CFO’s laptop will no longer turn on example
 
 
 <h2>Configuration Steps</h2>
@@ -77,15 +77,4 @@ https://github.com/user-attachments/assets/392ec62b-ff2a-4ad7-a34f-d1a88ee4d57a
 https://github.com/user-attachments/assets/8c18dd73-2db2-4600-8f40-d648e9a4da36
 
 - Watch the Instructional Video above
-
-
-
-
-
-
-
-
-
-
-
 
